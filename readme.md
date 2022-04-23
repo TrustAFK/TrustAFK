@@ -4,7 +4,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/ohh_hii_tusharr" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" style="margin-right: 30px" title = "Twitter" alt="" height="30" /></a>
+<a href="https://twitter.com/ohh_hii_tusharr" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 
 <a href="https://www.linkedin.com/in/tushar-gupta-10a151202/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 
