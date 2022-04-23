@@ -1,6 +1,7 @@
 ## 👋 Hey everyone, I'm Tushar Gupta®™ 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tushar-gupta-git&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tushar-gupta-git" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tushar-gupta-git&theme=jolly" width="700">
 
 
 ### Find me all around the web:
