@@ -12,5 +12,5 @@
 <a href="http://instagram.com/ohh_hii_tusharr/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://www.youtube.com/channel/UCZG6kAjr0ioBNdFjAOF_PbA" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
 </p>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Tushar-gupta-git150&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Tushar-gupta-git" /> </p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Tushar-gupta-git&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Tushar-gupta-git" /> </p>
 <br>
