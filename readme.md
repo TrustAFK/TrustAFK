@@ -1,5 +1,4 @@
 ## 👋 Hey everyone, I'm Tushar Gupta™ 👋
-<br>
 
 ### Find me all around the web:
 <br>
