@@ -1,9 +1,7 @@
 ## 👋 Hey everyone, I'm Tushar Gupta™ 👋
 <br>
-
 ### Find me all around the web:
 <br>
-
 <p align="left">
 <a href="http://twitter.com/ohh_hii_tusharr" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="http://linkedin.com/in/tushar-gupta-10a151202/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
