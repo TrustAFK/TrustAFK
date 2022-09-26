@@ -20,3 +20,4 @@
 <br>
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Tushar-gupta-git&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Tushar-gupta-git" /> </p>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tushar-gupta-git&label=Profile%20views&color=0e75b6&style=flat" alt="ayush40" /> </p>
