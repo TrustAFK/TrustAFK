@@ -41,4 +41,4 @@
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Tushar-gupta-git&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Tushar-gupta-git" /> </p>
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Have+a+nice+day+!?;" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Have+a+nice+day+!!;" </p>
