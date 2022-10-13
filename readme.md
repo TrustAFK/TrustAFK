@@ -33,6 +33,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017899686085) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://instagram.com/ohh_hii_tusharr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/tushar-gupta-10a151202/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](http://twitter.com/ohh_hii_tusharr) 
 
   
+  
 <img src="https://github-readme-stats.vercel.app/api?username=Tushar-gupta-git&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tushar-gupta-git" width="700">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Tushar-gupta-git&theme=jolly" width="700">
 <br>
