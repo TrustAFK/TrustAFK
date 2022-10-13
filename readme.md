@@ -26,15 +26,13 @@
   <img title="NextJS" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img title="VS Code" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     </p>
+    
+
+## 🌐 Socials: <img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" height="38" data-canonical-src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017899686085) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://instagram.com/ohh_hii_tusharr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/tushar-gupta-10a151202/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](http://twitter.com/ohh_hii_tusharr) 
+
   
-### Find me all around the web:
-<br>
-<p align="left">
-<a href="http://twitter.com/ohh_hii_tusharr" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png"  style="margin-right: 30px" title = "Twitter" alt="" height="30" /></a>
-<a href="http://linkedin.com/in/tushar-gupta-10a151202/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="http://instagram.com/ohh_hii_tusharr/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="https://www.youtube.com/channel/UCZG6kAjr0ioBNdFjAOF_PbA" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
-</p>
 <img src="https://github-readme-stats.vercel.app/api?username=Tushar-gupta-git&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tushar-gupta-git" width="700">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Tushar-gupta-git&theme=jolly" width="700">
 <br>
