@@ -39,11 +39,12 @@
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TrustAFK&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="TrustAFK" /> </p>
 <br>
   
-### Now Playing 🎧
+### Recent Playing 🎧
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=76dmkmt4zmh7tvrq04grgh2yb&count=1)
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/76dmkmt4zmh7tvrq04grgh2yb)
-<br/>
 ---
+  
+  
   
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Have+a+nice+day+!;" </p>
