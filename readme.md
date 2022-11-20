@@ -39,7 +39,7 @@
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TrustAFK&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="TrustAFK" /> </p>
 <br>
   
-### Recent Playing 🎧
+### Recent Played 🎧
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=76dmkmt4zmh7tvrq04grgh2yb&count=1)
 
 ---
