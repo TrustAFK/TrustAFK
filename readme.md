@@ -3,7 +3,7 @@
 <h2 align="Center">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I'm Tushar Gupta, Web Developer :computer:
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30" /> I'm Tushar Gupta, Web Developer :computer:
   <br>
   
   
